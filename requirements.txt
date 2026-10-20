@@ -1,0 +1,24 @@
+# Курс целиком (Practice 1–5 + ДЗ)
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+tqdm
+jupyter
+ipykernel
+joblib
+imageio
+
+# Бустинг и эмбеддинги (Practice 3–4)
+xgboost
+lightgbm
+catboost
+umap-learn
+
+# AutoML (Practice 5)
+optuna
+
+# Опционально: секция SMAC в Practice5/3.2_auto_ml.ipynb
+# ConfigSpace
+# smac
